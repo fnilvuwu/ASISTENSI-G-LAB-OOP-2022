@@ -1,1 +1,0 @@
-ls untuk mengecek dua string

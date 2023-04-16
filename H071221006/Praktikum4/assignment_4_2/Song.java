@@ -1,16 +1,9 @@
-package Praktikum4;
+package Praktikum4.assignment_4_2;
 
 public class Song {
     private String title, artist, album, genre;
     private int year;
 
-    // public Song(String title, String artist, String album, String genre, int year) {
-    //     this.title = title;
-    //     this.artist = artist;
-    //     this.album = album;
-    //     this.genre = genre;
-    //     this.year = year;
-    // }
     public String getTitle() {
         return title;
     }
