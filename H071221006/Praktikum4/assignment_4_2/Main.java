@@ -1,4 +1,4 @@
-package Praktikum4;
+package Praktikum4.assignment_4_2;
 
 public class Main {
     public static void main(String[] args) {
