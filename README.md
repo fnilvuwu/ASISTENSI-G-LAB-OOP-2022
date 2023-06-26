@@ -24,4 +24,4 @@ _Untuk perintah yang dibungkus < > maka perintah tersebut diganti sesuai instruk
   git push origin main
   ```
 - Setelah perintah tersebut berhasil, silahkan membuka repository hasil fork kalian di github dan lakukan pull request ke repository ini. 
-- Apabila terdapat kesulitan, silahkan menghubungi asistennya
+- Apabila terdapat kesulitan, silahkan menghubungi asistennya.
